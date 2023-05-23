@@ -3,6 +3,7 @@
 EFI for Mr9a Pro Machinist
 
 Opencore 0.9.2
+
 macOS 13.4
 
 Processor X5-2690v4 (also tested with x5-2650v4)
