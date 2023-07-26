@@ -16,3 +16,5 @@ Wifi & Bluetooth card j7 94331cd
 
 Notes:
 Added HibernationFixup.kext for hybernation. Tested ok.
+
+Use EFI v2
