@@ -18,3 +18,11 @@ Notes:
 Added HibernationFixup.kext for hybernation. Tested ok.
 
 Use EFI v2
+
+Update v3
+
+Running Sonoma 14.4 and OC 0.9.9
+
+Updates for Wifi applied and working
+
+recommended 64GB Ram if you will use two or more monitors
