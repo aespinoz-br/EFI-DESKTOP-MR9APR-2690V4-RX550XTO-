@@ -26,3 +26,7 @@ Running Sonoma 14.4 and OC 0.9.9
 Updates for Wifi applied and working
 
 recommended 64GB Ram if you will use two or more monitors
+
+Update v4
+
+Running Sonoma 14.5 and OC 1.0.0
